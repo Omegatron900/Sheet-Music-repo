@@ -1,2 +1,10 @@
 # Sheet-Music-repo
-This program takes as input song and artist, and returns youtube links and/or links to sheet music
+This program finds youtube links and sheet music for songs you like
+
+## Inputs
+- Song name
+- Artist name
+
+## Outputs
+- Youtube links
+- Sheet music links
